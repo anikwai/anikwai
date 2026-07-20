@@ -1,5 +1,3 @@
-![dino](https://github.com/user-attachments/assets/faaf8b23-8ea7-4a58-8326-8940b47c2635)
-
 <h2>Watson Cyrus Anikwai</h2>
 
 - **Senior Engineer Technical Support**, Solomon Telekom Company Ltd
