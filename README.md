@@ -1,6 +1,6 @@
 <h2>Watson Cyrus Anikwai</h2>
 
-- **Senior Engineer Technical Support**, Solomon Telekom Company Ltd
+- **IT Network & System Administrator**, Solomon Power Ltd
 - **Passionate about Internet Governance & Digital Transformation**
 
 
